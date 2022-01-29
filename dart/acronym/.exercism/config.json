@@ -1,0 +1,21 @@
+{
+  "blurb": "Convert a long phrase to its acronym",
+  "authors": [
+    "Stargator"
+  ],
+  "contributors": [
+  ],
+  "files": {
+    "solution": [
+      "lib/acronym.dart"
+    ],
+    "test": [
+      "test/acronym_test.dart"
+    ],
+    "example": [
+      ".meta/lib/example.dart"
+    ]
+  },
+  "source": "Julien Vanier",
+  "source_url": "https://github.com/monkbroc"
+}
