@@ -1,0 +1,21 @@
+{
+  "blurb": "Make sure the brackets and braces all match.",
+  "authors": [
+    "johnngugi"
+  ],
+  "contributors": [
+    "amscotti"
+  ],
+  "files": {
+    "solution": [
+      "lib/matching_brackets.dart"
+    ],
+    "test": [
+      "test/matching_brackets_test.dart"
+    ],
+    "example": [
+      ".meta/lib/example.dart"
+    ]
+  },
+  "source": "Ginna Baker"
+}
